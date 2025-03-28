@@ -1,0 +1,8 @@
+python-dotenv==1.0.1
+google-api-core==2.23.0
+google-api-python-client==2.81.0
+google-auth==2.16.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==0.5.2
+openai==1.41.0
+pandas==2.2.3
